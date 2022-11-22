@@ -11,4 +11,4 @@ Important concepts in python are practiced with references in the corresponding 
 		- Queues
 		- Managers 
 - Microservices
-	simple example of a microservice in a docker container
+	- simple example of a microservice in a docker container
